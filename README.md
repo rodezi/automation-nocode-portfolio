@@ -1,6 +1,7 @@
 # This is my portfolio
 Here you can find all my different projects of Bussiness Automation / no-code tools. 
-There's multiplem json's from Make and N8N. 
+There's multiple json's from Make and N8N. 
+Some basic to more robust automations.
 
 The ones called "Pack" are full workflows optimizations 
 
